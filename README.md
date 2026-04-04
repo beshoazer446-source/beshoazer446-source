@@ -11,7 +11,7 @@
 <br />
 
 <!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=beshoazer&color=19c8fa&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=beshoazer446-source&color=19c8fa&style=flat-square&label=PROFILE+VIEWS" />
 <a href="https://codeforces.com/profile/beshoazer">
 <img src="https://img.shields.io/badge/Codeforces-beshoazer-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
 </a>
@@ -78,12 +78,12 @@ funFact: "I debug at midnight and it somehow always works 🌙"
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beshoazer&show_icons=true&theme=github_dark&hide_border=true&title_color=19c8fa&icon_color=19c8fa&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoazer&layout=compact&theme=github_dark&hide_border=true&title_color=19c8fa&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beshoazer446-source&show_icons=true&theme=github_dark&hide_border=true&title_color=19c8fa&icon_color=19c8fa&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoazer446-source&layout=compact&theme=github_dark&hide_border=true&title_color=19c8fa&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoazer&theme=github-dark-blue&hide_border=true&stroke=19c8fa&ring=19c8fa&fire=ff6e6e&currStreakLabel=19c8fa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoazer446-source&theme=github-dark-blue&hide_border=true&stroke=19c8fa&ring=19c8fa&fire=ff6e6e&currStreakLabel=19c8fa" />
 </div>
 
 ---
@@ -107,7 +107,7 @@ funFact: "I debug at midnight and it somehow always works 🌙"
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshoazer)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshoazer446-source)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/beshoazer)
 
 </div>
